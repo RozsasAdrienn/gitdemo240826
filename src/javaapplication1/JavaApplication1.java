@@ -11,7 +11,7 @@ public class JavaApplication1 {
     }
     
      public void kiir() {
-        System.out.println("javítás");
+        System.out.println("javítás2");
     }
     
 }
